@@ -6,7 +6,6 @@ using namespace std;
 int main(){
 	int n;
 	string str;
-
 	cin >> n;
 	cin.ignore(10000, '\n');
 
